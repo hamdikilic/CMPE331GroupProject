@@ -6,4 +6,4 @@ Gurur Bilici
 
 faruk harbeed
 
-Batuhan Selim USTA
+Batuhan Selim USTA------> Searching QR code reader machine structure
