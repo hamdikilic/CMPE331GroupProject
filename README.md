@@ -2,7 +2,7 @@
 
 I am HAMDİ KILIÇ   ---> Searching QR code reader machine structure 
 
-Gurur Bilici
+Gurur Bilici --->   Searching Arduino's Code
 
 faruk harbeed     ---> Searching QR code reader machine structure 
 
